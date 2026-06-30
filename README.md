@@ -38,6 +38,10 @@ Recommended settings for strength:
 - Layer height: 0.16–0.20 mm
 - Print orientation: flat on the bed
 
+## 3D Printed
+
+![3d printed key](key.jpeg)
+
 ## Strength Note
 
 The model should stay solid in FreeCAD. Extra strength should mainly come from slicer settings such as more wall loops, high infill, and strong material.
