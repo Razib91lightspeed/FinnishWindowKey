@@ -1,4 +1,4 @@
-# Finnish Window Key L-Shape
+# Finnish 🇫🇮 Window Key 🔑 L-Shape
 
 A simple FreeCAD model for a Finnish-style L-shaped window key.
 
