@@ -45,3 +45,10 @@ Recommended settings for strength:
 ## Strength Note
 
 The model should stay solid in FreeCAD. Extra strength should mainly come from slicer settings such as more wall loops, high infill, and strong material.
+
+## License
+
+This project is released under the MIT License.
+
+You are free to use, modify, print, and share this design.  
+No warranty is provided. Use the printed part at your own risk, especially when applying twisting force.
