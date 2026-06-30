@@ -1,13 +1,41 @@
-.vscode/*
+# FreeCAD files
+*.FCStd1
+*.FCBak
+*.FCStd.lock
 
-# === OS Generated Files ===
+# Exported 3D model files
+*.stl
+*.obj
+*.3mf
+*.step
+*.stp
+*.iges
+*.igs
+
+# Slicer files
+*.gcode
+*.bgcode
+*.gcode.3mf
+
+# Bambu Studio / OrcaSlicer project backups
+*.bak
+*.tmp
+
 # macOS
 .DS_Store
-.DS_Store?
-.AppleDouble
-.LSOverride
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
+
+# Windows
 Thumbs.db
+desktop.ini
+
+# Linux
+*~
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE/editor files
+.vscode/
+.idea/
